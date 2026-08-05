@@ -1,8 +1,4 @@
-# Heteroscedastic Neural Regression Benchmark
-
-Code and processed result data accompanying the manuscript:
-
-**Heteroscedastic Neural Regression with Monte Carlo Dropout: Data-Resampled, Group-Aware, and Distribution-Shift Benchmarking**
+# Heteroscedastic Neural Regression with Monte Carlo Dropout: Data-Resampled, Group-Aware, and Distribution-Shift Benchmarking
 
 ## Contents
 
